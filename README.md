@@ -8,3 +8,7 @@ String myConvertedString = DiacriticalUtility.toNonDiacritical(myStringToConvert
 **Finding special characters**
 
 Boolean doesContainAccent = DiacriticalUtility.containsDiacritical(myString);
+
+**Output Example**
+
+héllo wõrld == hello world
